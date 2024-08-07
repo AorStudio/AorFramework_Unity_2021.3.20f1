@@ -1,0 +1,11 @@
+{
+  "displayName": "Aor Framework Core",
+  "name": "com.aor.aorcore",
+  "version": "0.0.1",
+  "unity": "2019.2",
+  "description": "Aor Framework Core",
+  "keywords": [
+    "aor"
+  ],
+  "hideInEditor": true
+}

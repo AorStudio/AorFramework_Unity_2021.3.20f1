@@ -1,0 +1,13 @@
+{
+  "displayName": "Aor Editor Plus Tools",
+  "name": "com.aor.editorplustools",
+  "version": "0.0.1",
+  "unity": "2019.2",
+  "description": "\u7f16\u8f91\u52a0\u5f3a\u5de5\u5177\u96c6\u5408",
+  "keywords": [
+    "Editor"
+  ],
+  "dependencies": {
+    "com.aor.aorcore": "0.0.1"
+  }
+}
